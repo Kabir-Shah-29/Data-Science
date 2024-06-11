@@ -5,8 +5,9 @@ By employing various machine learning models, we aim to build predictive models 
 
 # Screenshots
 
-![WQP ss1](c:\Users\kabir\Desktop\Kabir\Python Docs\Wine Quality Prediction\WQP ss1.png)
-![WQP ss2](c:\Users\kabir\Desktop\Kabir\Python Docs\Wine Quality Prediction\WQP ss2.png)
+![WQP ss1](https://github.com/Kabir-Shah-29/Data-Science/assets/68286737/913bcdba-4c46-4c73-a3cd-ffcdc64a9635)
+![WQP ss2](https://github.com/Kabir-Shah-29/Data-Science/assets/68286737/655477f4-05eb-4fea-9158-e2fa950eefcd)
+
 
 
 # Overview
