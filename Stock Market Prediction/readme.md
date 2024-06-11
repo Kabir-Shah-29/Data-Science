@@ -4,10 +4,11 @@ Stock price prediction using machine learning aims to forecast the future value 
 
 # Dataset:
 Web Scraping is used for getting dataset directly from the internet and used for predicting stock prices.
-![alt text](<SMP Dataset.png>)
+![SMP Dataset](https://github.com/Kabir-Shah-29/Data-Science/assets/68286737/4bb0394c-a911-45b9-bf2c-6fb52a1bac50)
+
 
 # Screenshots of prediction
-![alt text](<SMP ss1.png>)
-![alt text](<SMP ss2.png>)
+![SMP ss1](https://github.com/Kabir-Shah-29/Data-Science/assets/68286737/996c92ed-a874-4dd0-9da8-7b05e9154cb9)
+![SMP ss2](https://github.com/Kabir-Shah-29/Data-Science/assets/68286737/b2cec962-7302-4785-89b4-0a4d6f82adfc)
 
 # Thank you
